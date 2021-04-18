@@ -35,5 +35,5 @@ jobs:
           PUSH_KEY: ${{ secrets.PUSH_KEY }}
           TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
           TG_USER_ID: ${{ secrets.TG_USER_ID }}
-
+          BAIDU_CASH : ${{ secrets.BAIDU_CASH }}
           BAIDU_COOKIE: ${{ secrets.BAIDU_COOKIE }}
